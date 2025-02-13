@@ -81,5 +81,5 @@ function handleYesClick() {
     window.location.href = "yes_page.html";
 }
 function handleNextClick() {
-    window.location.href = "index.html";
+    window.location.href = "pre2.html";
 }
